@@ -1,0 +1,12 @@
+Indian-Startups-PowerBI-Analysis/
+├─ Data/
+│  └─ indian_startups_master.csv
+├─ Images/
+│  ├─ dashboard-overview.png
+│  └─ funding-trends.png
+├─ Documents/
+│  ├─ project-report.pdf
+│  └─ slide-deck.pptx
+├─ Indian_Startup_Analysis.pbix
+├─ README.md
+└─ .gitattributes        # if using git lfs
